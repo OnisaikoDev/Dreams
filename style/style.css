@@ -56,13 +56,13 @@ nav a {
 }
 
 .img-logo {
-    width: 20rem;
-    height: 15rem;
+    width: 15rem;
+    height: 10rem;
 }
 
 .header_nav ul {
     display: flex;
-    gap: 0.6rem;
+    gap: 0.4rem;
     list-style-type: none;
 }
 
