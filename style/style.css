@@ -29,6 +29,10 @@ nav a {
 .wrappercontainer {
     background-color: var(--main-color);
     margin: 0;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    left: 0;
 }
 
 .wrappercontainer-light {
